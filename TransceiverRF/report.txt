@@ -1,0 +1,624 @@
+Info: Reading netlist file "/home/tomas/Escritorio/TransceiverRF/TransceiverRF.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "C1:/59DC1C09/59C566B9:Resistors_SMD:R_0402".
+
+Adding new component "C1:/59DC1C09/59C566B9" footprint "Resistors_SMD:R_0402".
+
+Changing component "C1:/59DC1C09/59C566B9" pin "1" net name from "" to "+3V3".
+
+Changing component "C1:/59DC1C09/59C566B9" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C2:/59DC1C09/59C55D1C:Resistors_SMD:R_0805".
+
+Adding new component "C2:/59DC1C09/59C55D1C" footprint "Resistors_SMD:R_0805".
+
+Changing component "C2:/59DC1C09/59C55D1C" pin "1" net name from "" to "+3V3".
+
+Changing component "C2:/59DC1C09/59C55D1C" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C3:/59DC1C09/59C56B03:Resistors_SMD:R_0402".
+
+Adding new component "C3:/59DC1C09/59C56B03" footprint "Resistors_SMD:R_0402".
+
+Changing component "C3:/59DC1C09/59C56B03" pin "1" net name from "" to "+3V3".
+
+Changing component "C3:/59DC1C09/59C56B03" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C4:/59DC1C09/59C56B4A:Resistors_SMD:R_0402".
+
+Adding new component "C4:/59DC1C09/59C56B4A" footprint "Resistors_SMD:R_0402".
+
+Changing component "C4:/59DC1C09/59C56B4A" pin "1" net name from "" to "+3V3".
+
+Changing component "C4:/59DC1C09/59C56B4A" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C5:/59DC1C09/59C452D0:Resistors_SMD:R_0402".
+
+Adding new component "C5:/59DC1C09/59C452D0" footprint "Resistors_SMD:R_0402".
+
+Changing component "C5:/59DC1C09/59C452D0" pin "1" net name from "" to "Earth".
+
+Changing component "C5:/59DC1C09/59C452D0" pin "2" net name from "" to "Net-(C5-Pad2)".
+
+Info: Checking netlist component footprint "C6:/59DC1C09/59C453BD:Resistors_SMD:R_0402".
+
+Adding new component "C6:/59DC1C09/59C453BD" footprint "Resistors_SMD:R_0402".
+
+Changing component "C6:/59DC1C09/59C453BD" pin "1" net name from "" to "Net-(C6-Pad1)".
+
+Changing component "C6:/59DC1C09/59C453BD" pin "2" net name from "" to "Net-(C6-Pad2)".
+
+Info: Checking netlist component footprint "C7:/59DC1C09/59C4542C:Resistors_SMD:R_0402".
+
+Adding new component "C7:/59DC1C09/59C4542C" footprint "Resistors_SMD:R_0402".
+
+Changing component "C7:/59DC1C09/59C4542C" pin "1" net name from "" to "Net-(C7-Pad1)".
+
+Changing component "C7:/59DC1C09/59C4542C" pin "2" net name from "" to "Net-(C7-Pad2)".
+
+Info: Checking netlist component footprint "C8:/59DC1C09/59C45388:Resistors_SMD:R_0402".
+
+Adding new component "C8:/59DC1C09/59C45388" footprint "Resistors_SMD:R_0402".
+
+Changing component "C8:/59DC1C09/59C45388" pin "1" net name from "" to "Net-(C8-Pad1)".
+
+Changing component "C8:/59DC1C09/59C45388" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C9:/59DC1C09/59C45471:Resistors_SMD:R_0402".
+
+Adding new component "C9:/59DC1C09/59C45471" footprint "Resistors_SMD:R_0402".
+
+Changing component "C9:/59DC1C09/59C45471" pin "1" net name from "" to "Net-(C6-Pad1)".
+
+Changing component "C9:/59DC1C09/59C45471" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C10:/59DC1C09/59C56416:Resistors_SMD:R_0402".
+
+Adding new component "C10:/59DC1C09/59C56416" footprint "Resistors_SMD:R_0402".
+
+Changing component "C10:/59DC1C09/59C56416" pin "1" net name from "" to "+3V3".
+
+Changing component "C10:/59DC1C09/59C56416" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C11:/59DC1C09/59C45578:Resistors_SMD:R_0402".
+
+Adding new component "C11:/59DC1C09/59C45578" footprint "Resistors_SMD:R_0402".
+
+Changing component "C11:/59DC1C09/59C45578" pin "1" net name from "" to "Net-(C11-Pad1)".
+
+Changing component "C11:/59DC1C09/59C45578" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C12:/59DC1C09/59C56AC0:Resistors_SMD:R_0402".
+
+Adding new component "C12:/59DC1C09/59C56AC0" footprint "Resistors_SMD:R_0402".
+
+Changing component "C12:/59DC1C09/59C56AC0" pin "1" net name from "" to "+3V3".
+
+Changing component "C12:/59DC1C09/59C56AC0" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C13:/59DC1C09/59C4532B:Resistors_SMD:R_0402".
+
+Adding new component "C13:/59DC1C09/59C4532B" footprint "Resistors_SMD:R_0402".
+
+Changing component "C13:/59DC1C09/59C4532B" pin "1" net name from "" to "Net-(C13-Pad1)".
+
+Changing component "C13:/59DC1C09/59C4532B" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C14:/59DC1C09/59C56A07:Resistors_SMD:R_0402".
+
+Adding new component "C14:/59DC1C09/59C56A07" footprint "Resistors_SMD:R_0402".
+
+Changing component "C14:/59DC1C09/59C56A07" pin "1" net name from "" to "+3V3".
+
+Changing component "C14:/59DC1C09/59C56A07" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C15:/59DC1C09/59C4550D:Resistors_SMD:R_0402".
+
+Adding new component "C15:/59DC1C09/59C4550D" footprint "Resistors_SMD:R_0402".
+
+Changing component "C15:/59DC1C09/59C4550D" pin "1" net name from "" to "Net-(C15-Pad1)".
+
+Changing component "C15:/59DC1C09/59C4550D" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C16:/59DC1C09/59C45494:Resistors_SMD:R_0402".
+
+Adding new component "C16:/59DC1C09/59C45494" footprint "Resistors_SMD:R_0402".
+
+Changing component "C16:/59DC1C09/59C45494" pin "1" net name from "" to "Net-(C16-Pad1)".
+
+Changing component "C16:/59DC1C09/59C45494" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C17:/59DC1E6D/59DC232A:Resistors_SMD:R_0805".
+
+Adding new component "C17:/59DC1E6D/59DC232A" footprint "Resistors_SMD:R_0805".
+
+Changing component "C17:/59DC1E6D/59DC232A" pin "1" net name from "" to "+3V3".
+
+Changing component "C17:/59DC1E6D/59DC232A" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C18:/59DC1E6D/59DC2374:Resistors_SMD:R_0402".
+
+Adding new component "C18:/59DC1E6D/59DC2374" footprint "Resistors_SMD:R_0402".
+
+Changing component "C18:/59DC1E6D/59DC2374" pin "1" net name from "" to "+3V3".
+
+Changing component "C18:/59DC1E6D/59DC2374" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C19:/59DC1E6D/59DC2391:Resistors_SMD:R_0402".
+
+Adding new component "C19:/59DC1E6D/59DC2391" footprint "Resistors_SMD:R_0402".
+
+Changing component "C19:/59DC1E6D/59DC2391" pin "1" net name from "" to "+3V3".
+
+Changing component "C19:/59DC1E6D/59DC2391" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C20:/59DC1E6D/59DC2398:Resistors_SMD:R_0402".
+
+Adding new component "C20:/59DC1E6D/59DC2398" footprint "Resistors_SMD:R_0402".
+
+Changing component "C20:/59DC1E6D/59DC2398" pin "1" net name from "" to "+3V3".
+
+Changing component "C20:/59DC1E6D/59DC2398" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C21:/59DC1E6D/59DC2285:Resistors_SMD:R_0402".
+
+Adding new component "C21:/59DC1E6D/59DC2285" footprint "Resistors_SMD:R_0402".
+
+Changing component "C21:/59DC1E6D/59DC2285" pin "1" net name from "" to "Net-(C21-Pad1)".
+
+Changing component "C21:/59DC1E6D/59DC2285" pin "2" net name from "" to "Net-(C21-Pad2)".
+
+Info: Checking netlist component footprint "C22:/59DC1E6D/59DC22A1:Resistors_SMD:R_0402".
+
+Adding new component "C22:/59DC1E6D/59DC22A1" footprint "Resistors_SMD:R_0402".
+
+Changing component "C22:/59DC1E6D/59DC22A1" pin "1" net name from "" to "Net-(C21-Pad2)".
+
+Changing component "C22:/59DC1E6D/59DC22A1" pin "2" net name from "" to "Net-(C22-Pad2)".
+
+Info: Checking netlist component footprint "C23:/59DC1E6D/59DC229A:Resistors_SMD:R_0402".
+
+Adding new component "C23:/59DC1E6D/59DC229A" footprint "Resistors_SMD:R_0402".
+
+Changing component "C23:/59DC1E6D/59DC229A" pin "1" net name from "" to "Net-(C23-Pad1)".
+
+Changing component "C23:/59DC1E6D/59DC229A" pin "2" net name from "" to "Net-(C23-Pad2)".
+
+Info: Checking netlist component footprint "C24:/59DC1E6D/59DC2293:Resistors_SMD:R_0402".
+
+Adding new component "C24:/59DC1E6D/59DC2293" footprint "Resistors_SMD:R_0402".
+
+Changing component "C24:/59DC1E6D/59DC2293" pin "1" net name from "" to "Net-(C22-Pad2)".
+
+Changing component "C24:/59DC1E6D/59DC2293" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C25:/59DC1E6D/59DC22A8:Resistors_SMD:R_0402".
+
+Adding new component "C25:/59DC1E6D/59DC22A8" footprint "Resistors_SMD:R_0402".
+
+Changing component "C25:/59DC1E6D/59DC22A8" pin "1" net name from "" to "Net-(C25-Pad1)".
+
+Changing component "C25:/59DC1E6D/59DC22A8" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C26:/59DC1E6D/59DC2337:Resistors_SMD:R_0402".
+
+Adding new component "C26:/59DC1E6D/59DC2337" footprint "Resistors_SMD:R_0402".
+
+Changing component "C26:/59DC1E6D/59DC2337" pin "1" net name from "" to "+3V3".
+
+Changing component "C26:/59DC1E6D/59DC2337" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C27:/59DC1E6D/59DC228C:Resistors_SMD:R_0402".
+
+Adding new component "C27:/59DC1E6D/59DC228C" footprint "Resistors_SMD:R_0402".
+
+Changing component "C27:/59DC1E6D/59DC228C" pin "1" net name from "" to "Net-(C23-Pad2)".
+
+Changing component "C27:/59DC1E6D/59DC228C" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C28:/59DC1E6D/59DC22BD:Resistors_SMD:R_0402".
+
+Adding new component "C28:/59DC1E6D/59DC22BD" footprint "Resistors_SMD:R_0402".
+
+Changing component "C28:/59DC1E6D/59DC22BD" pin "1" net name from "" to "Net-(C28-Pad1)".
+
+Changing component "C28:/59DC1E6D/59DC22BD" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C29:/59DC1E6D/59DC238A:Resistors_SMD:R_0402".
+
+Adding new component "C29:/59DC1E6D/59DC238A" footprint "Resistors_SMD:R_0402".
+
+Changing component "C29:/59DC1E6D/59DC238A" pin "1" net name from "" to "+3V3".
+
+Changing component "C29:/59DC1E6D/59DC238A" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C30:/59DC1E6D/59DC2383:Resistors_SMD:R_0402".
+
+Adding new component "C30:/59DC1E6D/59DC2383" footprint "Resistors_SMD:R_0402".
+
+Changing component "C30:/59DC1E6D/59DC2383" pin "1" net name from "" to "+3V3".
+
+Changing component "C30:/59DC1E6D/59DC2383" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C31:/59DC1E6D/59DC22B6:Resistors_SMD:R_0402".
+
+Adding new component "C31:/59DC1E6D/59DC22B6" footprint "Resistors_SMD:R_0402".
+
+Changing component "C31:/59DC1E6D/59DC22B6" pin "1" net name from "" to "Net-(C31-Pad1)".
+
+Changing component "C31:/59DC1E6D/59DC22B6" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "C32:/59DC1E6D/59DC22AF:Resistors_SMD:R_0402".
+
+Adding new component "C32:/59DC1E6D/59DC22AF" footprint "Resistors_SMD:R_0402".
+
+Changing component "C32:/59DC1E6D/59DC22AF" pin "1" net name from "" to "Net-(C32-Pad1)".
+
+Changing component "C32:/59DC1E6D/59DC22AF" pin "2" net name from "" to "Earth".
+
+Info: Checking netlist component footprint "L1:/59DC1C09/59C45729:Resistors_SMD:R_0402".
+
+Adding new component "L1:/59DC1C09/59C45729" footprint "Resistors_SMD:R_0402".
+
+Changing component "L1:/59DC1C09/59C45729" pin "1" net name from "" to "Net-(C7-Pad2)".
+
+Changing component "L1:/59DC1C09/59C45729" pin "2" net name from "" to "Net-(C5-Pad2)".
+
+Info: Checking netlist component footprint "L2:/59DC1C09/59E12CD2:Resistors_SMD:R_0402".
+
+Adding new component "L2:/59DC1C09/59E12CD2" footprint "Resistors_SMD:R_0402".
+
+Changing component "L2:/59DC1C09/59E12CD2" pin "1" net name from "" to "Net-(C8-Pad1)".
+
+Changing component "L2:/59DC1C09/59E12CD2" pin "2" net name from "" to "Net-(C7-Pad2)".
+
+Info: Checking netlist component footprint "L3:/59DC1C09/59C45670:Resistors_SMD:R_0402".
+
+Adding new component "L3:/59DC1C09/59C45670" footprint "Resistors_SMD:R_0402".
+
+Changing component "L3:/59DC1C09/59C45670" pin "1" net name from "" to "Net-(C6-Pad1)".
+
+Changing component "L3:/59DC1C09/59C45670" pin "2" net name from "" to "Net-(C8-Pad1)".
+
+Info: Checking netlist component footprint "L4:/59DC1C09/59C455E5:Resistors_SMD:R_0402".
+
+Adding new component "L4:/59DC1C09/59C455E5" footprint "Resistors_SMD:R_0402".
+
+Changing component "L4:/59DC1C09/59C455E5" pin "1" net name from "" to "Net-(C7-Pad1)".
+
+Changing component "L4:/59DC1C09/59C455E5" pin "2" net name from "" to "Net-(C13-Pad1)".
+
+Info: Checking netlist component footprint "L5:/59DC1E6D/59DC22C4:Resistors_SMD:R_0402".
+
+Adding new component "L5:/59DC1E6D/59DC22C4" footprint "Resistors_SMD:R_0402".
+
+Changing component "L5:/59DC1E6D/59DC22C4" pin "1" net name from "" to "Earth".
+
+Changing component "L5:/59DC1E6D/59DC22C4" pin "2" net name from "" to "Net-(C21-Pad2)".
+
+Info: Checking netlist component footprint "L6:/59DC1E6D/59DC22CB:Resistors_SMD:R_0402".
+
+Adding new component "L6:/59DC1E6D/59DC22CB" footprint "Resistors_SMD:R_0402".
+
+Changing component "L6:/59DC1E6D/59DC22CB" pin "1" net name from "" to "Net-(C25-Pad1)".
+
+Changing component "L6:/59DC1E6D/59DC22CB" pin "2" net name from "" to "Net-(C22-Pad2)".
+
+Info: Checking netlist component footprint "L7:/59DC1E6D/59DC22D2:Resistors_SMD:R_0402".
+
+Adding new component "L7:/59DC1E6D/59DC22D2" footprint "Resistors_SMD:R_0402".
+
+Changing component "L7:/59DC1E6D/59DC22D2" pin "1" net name from "" to "Net-(C22-Pad2)".
+
+Changing component "L7:/59DC1E6D/59DC22D2" pin "2" net name from "" to "Net-(C23-Pad2)".
+
+Info: Checking netlist component footprint "R1:/59DC1C09/59C46462:Resistors_SMD:R_0402".
+
+Adding new component "R1:/59DC1C09/59C46462" footprint "Resistors_SMD:R_0402".
+
+Changing component "R1:/59DC1C09/59C46462" pin "1" net name from "" to "Earth".
+
+Changing component "R1:/59DC1C09/59C46462" pin "2" net name from "" to "Net-(R1-Pad2)".
+
+Info: Checking netlist component footprint "R2:/59DC1E6D/59DC22E0:Resistors_SMD:R_0402".
+
+Adding new component "R2:/59DC1E6D/59DC22E0" footprint "Resistors_SMD:R_0402".
+
+Changing component "R2:/59DC1E6D/59DC22E0" pin "1" net name from "" to "Earth".
+
+Changing component "R2:/59DC1E6D/59DC22E0" pin "2" net name from "" to "Net-(R2-Pad2)".
+
+Info: Checking netlist component footprint "U1:/59DC1C09/59E0F73D:TransceiverRF:qfn-20".
+
+Adding new component "U1:/59DC1C09/59E0F73D" footprint "TransceiverRF:qfn-20".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "1" net name from "" to "/CC1101/SCLK_CC1101".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "2" net name from "" to "/CC1101/SO_CC1101".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "3" net name from "" to "/CC1101/GDO2(opcional)_CC1101".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "4" net name from "" to "+3V3".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "6" net name from "" to "/CC1101/GDO1(opcional)_CC1101".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "7" net name from "" to "/CC1101/CSn_CC1101".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "8" net name from "" to "Net-(C15-Pad1)".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "9" net name from "" to "+3V3".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "10" net name from "" to "Net-(C16-Pad1)".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "11" net name from "" to "+3V3".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "12" net name from "" to "Net-(C7-Pad1)".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "13" net name from "" to "Net-(C5-Pad2)".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "14" net name from "" to "+3V3".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "15" net name from "" to "+3V3".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "16" net name from "" to "Earth".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "17" net name from "" to "Net-(R1-Pad2)".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "18" net name from "" to "+3V3".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "19" net name from "" to "Earth".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "20" net name from "" to "/CC1101/SI_CC1101".
+
+Changing component "U1:/59DC1C09/59E0F73D" pin "5" net name from "" to "Net-(C11-Pad1)".
+
+Info: Checking netlist component footprint "U2:/59DC1C09/59C570C3:TransceiverRF:sma_straight_32k101-400l5".
+
+Adding new component "U2:/59DC1C09/59C570C3" footprint "TransceiverRF:sma_straight_32k101-400l5".
+
+Info: Checking netlist component footprint "U3:/59DC1E6D/59DC227E:TransceiverRF:qfn-20".
+
+Adding new component "U3:/59DC1E6D/59DC227E" footprint "TransceiverRF:qfn-20".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "1" net name from "" to "/CC2500/SCLK_CC2500".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "2" net name from "" to "/CC2500/SO_CC2500".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "3" net name from "" to "/CC2500/GDO2(opcional)_CC2500".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "4" net name from "" to "+3V3".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "6" net name from "" to "/CC2500/GDO1(opcional)_CC2500".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "7" net name from "" to "/CC2500/CSn_CC2500".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "8" net name from "" to "Net-(C31-Pad1)".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "9" net name from "" to "+3V3".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "10" net name from "" to "Net-(C32-Pad1)".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "11" net name from "" to "+3V3".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "12" net name from "" to "Net-(C23-Pad1)".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "13" net name from "" to "Net-(C21-Pad1)".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "14" net name from "" to "+3V3".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "15" net name from "" to "+3V3".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "16" net name from "" to "Earth".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "17" net name from "" to "Net-(R2-Pad2)".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "18" net name from "" to "+3V3".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "19" net name from "" to "Earth".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "20" net name from "" to "/CC2500/SI_CC2500".
+
+Changing component "U3:/59DC1E6D/59DC227E" pin "5" net name from "" to "Net-(C28-Pad1)".
+
+Info: Checking netlist component footprint "U4:/59DC1E6D/59DC23BE:TransceiverRF:sma_straight_32k101-400l5".
+
+Adding new component "U4:/59DC1E6D/59DC23BE" footprint "TransceiverRF:sma_straight_32k101-400l5".
+
+Info: Checking netlist component footprint "XA1:/59E53F10/59E54096:TransceiverRF:Conn_Poncho_Mediano".
+
+Adding new component "XA1:/59E53F10/59E54096" footprint "TransceiverRF:Conn_Poncho_Mediano".
+
+Changing component "XA1:/59E53F10/59E54096" pin "1" net name from "" to "+3V3".
+
+Changing component "XA1:/59E53F10/59E54096" pin "2" net name from "" to "Net-(XA1-Pad2)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "11" net name from "" to "Net-(XA1-Pad11)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "4" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "13" net name from "" to "Net-(XA1-Pad13)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "6" net name from "" to "Net-(XA1-Pad6)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "15" net name from "" to "Net-(XA1-Pad15)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "8" net name from "" to "Net-(XA1-Pad8)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "17" net name from "" to "Net-(XA1-Pad17)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "10" net name from "" to "Net-(XA1-Pad10)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "19" net name from "" to "Net-(XA1-Pad19)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "12" net name from "" to "Net-(XA1-Pad12)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "21" net name from "" to "Net-(XA1-Pad21)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "14" net name from "" to "Net-(XA1-Pad14)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "23" net name from "" to "Net-(XA1-Pad23)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "16" net name from "" to "Net-(XA1-Pad16)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "25" net name from "" to "Net-(XA1-Pad25)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "18" net name from "" to "Net-(XA1-Pad18)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "27" net name from "" to "Net-(XA1-Pad27)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "20" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "29" net name from "" to "Net-(XA1-Pad29)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "22" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "31" net name from "" to "Net-(XA1-Pad31)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "24" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "26" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "33" net name from "" to "Net-(XA1-Pad33)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "28" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "32" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "34" net name from "" to "Net-(XA1-Pad34)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "36" net name from "" to "Net-(XA1-Pad36)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "38" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "35" net name from "" to "Net-(XA1-Pad35)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "37" net name from "" to "Net-(XA1-Pad37)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "3" net name from "" to "Net-(XA1-Pad3)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "5" net name from "" to "Net-(XA1-Pad5)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "7" net name from "" to "Net-(XA1-Pad7)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "9" net name from "" to "Net-(XA1-Pad9)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "39" net name from "" to "Net-(XA1-Pad39)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "40" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "30" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "41" net name from "" to "+3V3".
+
+Changing component "XA1:/59E53F10/59E54096" pin "42" net name from "" to "Net-(XA1-Pad42)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "43" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "44" net name from "" to "/Conectores/SO_CC1101".
+
+Changing component "XA1:/59E53F10/59E54096" pin "45" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "46" net name from "" to "/Conectores/SI_CC1101".
+
+Changing component "XA1:/59E53F10/59E54096" pin "47" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "48" net name from "" to "Net-(XA1-Pad48)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "49" net name from "" to "Net-(XA1-Pad49)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "50" net name from "" to "Net-(XA1-Pad50)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "51" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "52" net name from "" to "Net-(XA1-Pad52)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "53" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "54" net name from "" to "Net-(XA1-Pad54)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "55" net name from "" to "/Conectores/SCLK_1101".
+
+Changing component "XA1:/59E53F10/59E54096" pin "56" net name from "" to "Net-(XA1-Pad56)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "57" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "58" net name from "" to "/Conectores/SO_CC2500".
+
+Changing component "XA1:/59E53F10/59E54096" pin "59" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "60" net name from "" to "/Conectores/SCLK_2500".
+
+Changing component "XA1:/59E53F10/59E54096" pin "61" net name from "" to "/Conectores/SI_CC2500".
+
+Changing component "XA1:/59E53F10/59E54096" pin "62" net name from "" to "Net-(XA1-Pad62)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "63" net name from "" to "Net-(XA1-Pad63)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "64" net name from "" to "Net-(XA1-Pad64)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "65" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "66" net name from "" to "Net-(XA1-Pad66)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "67" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "68" net name from "" to "Net-(XA1-Pad68)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "69" net name from "" to "/Conectores/GDO1(opcional)_CC2500".
+
+Changing component "XA1:/59E53F10/59E54096" pin "70" net name from "" to "Net-(XA1-Pad70)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "71" net name from "" to "/Conectores/GDO2(opcional)_CC2500".
+
+Changing component "XA1:/59E53F10/59E54096" pin "72" net name from "" to "/Conectores/GDO1(opcional)_CC1101".
+
+Changing component "XA1:/59E53F10/59E54096" pin "73" net name from "" to "/Conectores/Csn_2500".
+
+Changing component "XA1:/59E53F10/59E54096" pin "74" net name from "" to "/Conectores/GDO2(opcional)_CC1101".
+
+Changing component "XA1:/59E53F10/59E54096" pin "75" net name from "" to "Net-(XA1-Pad75)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "76" net name from "" to "/Conectores/Csn_1101".
+
+Changing component "XA1:/59E53F10/59E54096" pin "77" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "78" net name from "" to "Net-(XA1-Pad78)".
+
+Changing component "XA1:/59E53F10/59E54096" pin "79" net name from "" to "Earth".
+
+Changing component "XA1:/59E53F10/59E54096" pin "80" net name from "" to "Net-(XA1-Pad80)".
+
+Info: Checking netlist component footprint "Y1:/59DC1C09/59C45FF2:TransceiverRF:hc-49_smd".
+
+Adding new component "Y1:/59DC1C09/59C45FF2" footprint "TransceiverRF:hc-49_smd".
+
+Changing component "Y1:/59DC1C09/59C45FF2" pin "1" net name from "" to "Net-(C15-Pad1)".
+
+Changing component "Y1:/59DC1C09/59C45FF2" pin "2" net name from "" to "Net-(C16-Pad1)".
+
+Info: Checking netlist component footprint "Y2:/59DC1E6D/59DC22D9:TransceiverRF:hc-49_smd".
+
+Adding new component "Y2:/59DC1E6D/59DC22D9" footprint "TransceiverRF:hc-49_smd".
+
+Changing component "Y2:/59DC1E6D/59DC22D9" pin "1" net name from "" to "Net-(C31-Pad1)".
+
+Changing component "Y2:/59DC1E6D/59DC22D9" pin "2" net name from "" to "Net-(C32-Pad1)".
+
+Error: Component 'U2' pad '~' not found in footprint 'TransceiverRF:sma_straight_32k101-400l5'
+
+Error: Component 'U2' pad '~' not found in footprint 'TransceiverRF:sma_straight_32k101-400l5'
+
+Error: Component 'U2' pad '~' not found in footprint 'TransceiverRF:sma_straight_32k101-400l5'
+
+Error: Component 'U2' pad '~' not found in footprint 'TransceiverRF:sma_straight_32k101-400l5'
+
+Error: Component 'U4' pad '~' not found in footprint 'TransceiverRF:sma_straight_32k101-400l5'
+
+Error: Component 'U4' pad '~' not found in footprint 'TransceiverRF:sma_straight_32k101-400l5'
+
+Error: Component 'U4' pad '~' not found in footprint 'TransceiverRF:sma_straight_32k101-400l5'
+
+Error: Component 'U4' pad '~' not found in footprint 'TransceiverRF:sma_straight_32k101-400l5'
+

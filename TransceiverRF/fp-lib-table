@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name TransceiverRF)(type KiCad)(uri "$(KIPRJMOD)/TransceiverRF.pretty")(options "")(descr ""))
+)
