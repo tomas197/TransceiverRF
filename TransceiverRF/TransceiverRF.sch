@@ -40,19 +40,15 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 4
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "TransceiverRF"
+Date "2017-11-12"
+Rev "Gonzalo 1.1"
+Comp "Poncho CIAA"
 Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 7350 7500 0    60   ~ 0
-Trnsceiver RF
-Text Notes 8100 7650 0    60   ~ 0
-21 SEP 2017
 $Sheet
 S 2600 4150 1650 1000
 U 59DC1C09
@@ -61,8 +57,8 @@ F1 "cc1101.sch" 60
 F2 "SCLK_CC1101" I R 4250 4400 60 
 F3 "SI_CC1101" I R 4250 4250 60 
 F4 "SO_CC1101" I R 4250 4550 60 
-F5 "GDO2(opcional)_CC1101" I R 4250 4700 60 
-F6 "GDO1(opcional)_CC1101" I R 4250 4850 60 
+F5 "GDO2(opcional)_CC1101" I R 4250 4850 60 
+F6 "GDO1(opcional)_CC1101" I R 4250 4700 60 
 F7 "CSn_CC1101" I R 4250 5000 60 
 $EndSheet
 $Sheet

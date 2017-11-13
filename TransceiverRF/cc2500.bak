@@ -40,10 +40,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 4
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "cc2500 Transceiver 2.4 GHz"
+Date "2017-11-12"
+Rev "Gonzalo 1.1"
+Comp "Poncho CIAA"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -549,8 +549,6 @@ Wire Wire Line
 	4100 2050 5500 2050
 Wire Wire Line
 	5300 2050 5300 2100
-Text Notes 7350 7500 0    60   ~ 0
-CC2500 Transceiver 2.4 GHz
 $Comp
 L +3.3V #PWR029
 U 1 1 59E54CF8

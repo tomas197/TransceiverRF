@@ -40,19 +40,15 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 4
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "cc1101 Transceiver 433 MHz"
+Date "2017-11-12"
+Rev "Gonzalo 1.1"
+Comp "Poncho CIAA"
 Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 7350 7500 0    60   ~ 0
-CC1101 Transceiver 433 MHz
-Text Notes 8100 7650 0    60   ~ 0
-21 SEP 2017
 $Comp
 L C C?
 U 1 1 59C452D0
@@ -486,13 +482,11 @@ Wire Wire Line
 Wire Wire Line
 	5450 2400 5450 3100
 Wire Wire Line
-	6350 2850 6350 4900
+	6350 4900 6350 2850
 Wire Wire Line
 	6350 2850 5450 2850
 Connection ~ 5450 2850
 Connection ~ 6350 3600
-Wire Wire Line
-	6350 4900 5650 4900
 Connection ~ 6350 3800
 Connection ~ 6350 4400
 Wire Wire Line
@@ -772,4 +766,12 @@ F 3 "" H 4050 2350 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4050 2400 4050 2350
+Wire Wire Line
+	5650 4900 5650 5000
+Wire Wire Line
+	5650 5000 5950 5000
+Wire Wire Line
+	5950 5000 5950 4900
+Wire Wire Line
+	5950 4900 6350 4900
 $EndSCHEMATC
